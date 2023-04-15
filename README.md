@@ -1,1 +1,1 @@
-# React-Redux-Cart
+# Jest and React testing Library
